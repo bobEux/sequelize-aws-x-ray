@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/shun-tak/sequelize-aws-x-ray#readme",
   "dependencies": {
-    "aws-xray-sdk": "^1.0.0-beta"
+    "aws-xray-sdk": "2.5.0"
   }
 }
